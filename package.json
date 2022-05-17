@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "week10homework",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts" : { 
+    "test" : "jest" 
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elsa5152/week10homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elsa5152/week10homework/issues"
+  },
+  "homepage": "https://github.com/elsa5152/week10homework#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
