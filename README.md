@@ -4,57 +4,40 @@
 
 ## Description
 
- AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
+AS A manager
+I WANT to generate a webpage that displays my team's basic info
+SO THAT I have quick access to their emails and GitHub profiles
+
 
  ## Installation
 
-* Create a .gitignore file and include node_modules/ and .DS_Store/ so that your node_modules directory isn't tracked or uploaded to GitHub. Be sure to create your .gitignore file before installing any npm dependencies.
+* Create a .gitignore file and include node_modules/ 
+
+* application should use Jest for running the unit tests and Inquirer for collecting input from the user. 
 
 
-* Make sure that your repo includes a package.json with the required dependencies. You can create one by running npm init when you first set up the project, before installing any dependencies.
 
  ## Tests
   
   RUN CODE "npm test" IN COMMAND-LINE.
 
+ ## Function the app
+
+  Run CODE " node index.js" IN COMMAND-LINE.
+ 
  ## DEMO
 
- # week9-homework
-# README FILE GENERATOR
-
-## Description
-
- AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
-
- ## Installation
-
-* Create a .gitignore file and include node_modules/ and .DS_Store/ so that your node_modules directory isn't tracked or uploaded to GitHub. Be sure to create your .gitignore file before installing any npm dependencies.
-
-
-* Make sure that your repo includes a package.json with the required dependencies. You can create one by running npm init when you first set up the project, before installing any dependencies.
-
- ## Tests
-  
-  RUN CODE "node index.js" IN COMMAND-LINE.
-
- ## DEMO
-
-/Users/Elsa/Documents/GitHub/week10homework/lib/ass/video/MyVideo_1.MP4
+https://user-images.githubusercontent.com/100567053/168724257-5b8b213e-2c07-4854-8802-a9688ee3c9f7.MP4
 
 ## SAMPLE of my homework
 
-[README FILE GENERATOR](https://elsa5152.github.io/week9-homework/ExampleREADME.md)
+[Team Profile Generator](https://elsa5152.github.io/week10homework/output/team.html)
 
-<image src="image/page1.png" alt="generator1.png" width="500" height="300">
-<image src="image/page2.png" alt="generator2.png" width="500" height="300">
+
+
 
 ## SAMPLE of my homework
 
-[README FILE GENERATOR](https://elsa5152.github.io/week9-homework/ExampleREADME.md)
+[Team Profile Generator](https://elsa5152.github.io/week9-homework/ExampleREADME.md)
 
-<image src="image/page1.png" alt="generator1.png" width="500" height="300">
-<image src="image/page2.png" alt="generator2.png" width="500" height="300">
+<image src="ass/image/demophoto.png" alt="demophoto.png" width="500" height="300">
